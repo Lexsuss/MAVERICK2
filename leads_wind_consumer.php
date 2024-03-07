@@ -149,10 +149,6 @@ input{
     display: flex;
 }
 
-.cicciomerda{
-    e' una grande merda;
-}
-
 </style>
 
   <!-- Content Wrapper. Contains page content -->
