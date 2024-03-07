@@ -161,7 +161,7 @@ input{
         $mrs=mysqli_fetch_array($qrs); 
         $azienda1=$mrs['rag_desc'];?>
         <h1 style="float: left; margin-right: 10px;">Leads <? print $azienda1?></h1>
-        <a href="#my-modal" role="button" class="btn-nuova-leads" data-toggle="modal"><i class="fa fa-plus"></i> Nuova Leads</a>
+        <a href="#my-modal" role="button" class="btn-nuova-leads" data-toggle="modal"><i class="fa fa-plus"></i> Nuova Leads prova2</a>
         </section>
       <div class="row">
           <div class="col-sm-12">
