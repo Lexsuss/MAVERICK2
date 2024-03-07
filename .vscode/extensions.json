@@ -1,0 +1,10 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.js$",
+                "cmd": "git add . && git commit -m 'Auto-commit' && git push origin master && ftp-upload-command"
+            }
+        ]
+    }
+}
